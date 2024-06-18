@@ -1817,6 +1817,9 @@ input, select, textarea {
 
 /* Icon */
 
+	.devicon-materialui-plain, .devicon-typescript-plain{
+			font-size: 1.35em;
+		}
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
@@ -2868,7 +2871,7 @@ input, select, textarea {
 			ul.icons li .icon,  {
 				font-size: 1.25em;
 			}
-		devicon-materialui-plain,devicon-typescript-plain{
+		.devicon-materialui-plain, .devicon-typescript-plain{
 			font-size: 1.675em;
 		}
 
