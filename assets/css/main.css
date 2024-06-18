@@ -2865,9 +2865,12 @@ input, select, textarea {
 
 		/* List */
 
-			ul.icons li .icon {
+			ul.icons li .icon,  {
 				font-size: 1.25em;
 			}
+		devicon-materialui-plain,devicon-typescript-plain{
+			font-size: 1.675em;
+		}
 
 		/* Header */
 
